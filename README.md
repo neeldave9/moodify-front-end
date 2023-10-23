@@ -19,5 +19,9 @@ To get started with Moodify, follow these simple steps:
    git clone https://github.com/neeldave9/moodify-front-end.git
 2. **Installation**: Navigate to the project directory and install the required dependencies:
    ```shell
-cd moodify
-npm install
+   cd moodify
+   npm install
+3. **API**: Run API locally and input the url into the config.json file:
+4. **Run the app**: Start the app by running the following command:
+   ```shell
+   npm start
