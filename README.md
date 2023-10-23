@@ -21,7 +21,7 @@ To get started with Moodify, follow these simple steps:
    ```shell
    cd moodify
    npm install
-3. **API**: Run API locally and input the url into the fetchConfig.js file:
+3. **API**: Run API locally and input the url into the public/config.json file:
 4. **Run the app**: Start the app by running the following command:
    ```shell
    npm start
