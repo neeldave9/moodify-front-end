@@ -4,7 +4,7 @@ Moodify is a music recommendation app that offers a unique musical experience ta
 
 ## Features
 
-- **Real-time Weather Integration**: Moodify uses the latest weather data to adjust your music recommendations. For instance, on a sunny day, you can expect higher-energy and upbeat song suggestions, while on a rainy day, mellower tunes will be recommended.
+- **Real-time Weather Integration**: Moodify uses the current weather data to adjust your music recommendations. For instance, on a sunny day, you can expect higher-energy and upbeat song suggestions, while on a rainy day, mellower tunes will be recommended.
 
 - **Customized Preferences**: You have the flexibility to input your personal music preferences, such as your favorite artists or genres. Moodify will use this information to curate recommendations that align with your musical tastes.
 
