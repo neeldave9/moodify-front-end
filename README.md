@@ -25,3 +25,8 @@ To get started with Moodify, follow these simple steps:
 4. **Run the app**: Start the app by running the following command:
    ```shell
    npm start
+
+# Screenshots of the app
+![image](https://github.com/neeldave9/moodify-front-end/assets/73630019/dd0183c4-cadb-4119-b750-5556ddf0d05f)
+
+![image](https://github.com/neeldave9/moodify-front-end/assets/73630019/c6bd8613-036e-4aa8-9c1e-0b243fb477eb)
